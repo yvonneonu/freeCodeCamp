@@ -67,7 +67,7 @@ tests:
 <style>
   h2 {
     position: relative;
-    left: 15px;
+    top: 15px;
     bottom: 10px;
   }
 </style>
